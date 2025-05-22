@@ -1,5 +1,4 @@
-## ARCHIVO DONDE QUEDAN ALMACENADOS TODOS LOS ANALIZADORES Y GENERAR (ARBOLES, LEXICO, SINTACTICO Y SEMANTICO)
-![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/3fe5070b-bfba-4360-9efe-c7ee992d81e1)
+
 ## Al darle inicio al programa apareceran en pantalla los analizadores y creara un archivo .asm (la manera en que se genero no recuerdo como le hice asi que decidi ya no moverle y confiar en dios) "soy ese"
 ![image](https://github.com/TortaAhogada02/Traductores-de-lenguaje/assets/102304790/74360697-8c09-429b-9cde-99af8c022d0a)
 
